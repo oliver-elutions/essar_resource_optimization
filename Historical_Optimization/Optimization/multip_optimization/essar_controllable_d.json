@@ -1,0 +1,26 @@
+{   
+    "read_params":{
+        "args": {
+
+        },
+        "kwargs": {
+
+        },
+        "index_col": ""
+    },
+
+    "controllable": {
+        "OIL": [-0.9383921634615362, 0.9534671066993461],
+        "GAS": [-2.39695039285715, 2.430939499999994],
+        "COMBUSTION_AIR" : [-46.044720804598455,  46.917969318555606],
+        "INLET_TEMP" : [-1.8751, 0.875]
+    },
+
+    "noncontrollable": [
+        "LONG_RES",
+        "O2",
+        "COMBUSTION_AIR_TEMP",
+        "GAS_DENS",
+        "INLET_SUM"
+    ]
+}

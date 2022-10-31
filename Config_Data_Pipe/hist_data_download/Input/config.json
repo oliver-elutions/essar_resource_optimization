@@ -1,0 +1,8 @@
+{
+    "client": "Essar_",
+    "server": "SPCPROSQL005",
+    "start_date": "2016-01-01",
+    "end_date": "2022-10-01",
+    "rate": 30,
+    "unit": "minutes"
+}

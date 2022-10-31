@@ -1,0 +1,11 @@
+{
+    "data_mapper_columns" : [
+        "Datapoint Name",
+        "Datapoint IDs",
+        "Property Name",
+        "Property ID"
+    ],
+    "property_ids" : -6,
+    "mapper_sheet": "Datapoint Mappings"
+
+}
